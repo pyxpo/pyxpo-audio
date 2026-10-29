@@ -1,5 +1,7 @@
 # pyxpo-audio
 
+[![CI](https://github.com/pyxpo/pyxpo-audio/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-audio/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-audio)](https://pypi.org/project/pyxpo-audio/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-audio)](https://pypi.org/project/pyxpo-audio/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Sound playback for [pyxpo](https://github.com/pyxpo/pyxpo) apps, written in Python: play, pause, loop, seek and set the
 volume of a local file or a URL. It follows the player part of
 [expo-audio](https://docs.expo.dev/versions/latest/sdk/audio/), in Python style.
